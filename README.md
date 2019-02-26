@@ -28,11 +28,11 @@ print(a)
 ## Execute `hello_world.py`
 
 ```bash
-> python helloP=_world.py
+> python helloP_world.py
 ```
 
 The output should be:
 
 ```
-Hello, world!`
+Hello, world!
 ```
