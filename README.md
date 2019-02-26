@@ -9,7 +9,7 @@ Create a new Python program called hello_world.py. You will use this file to wri
 ## Printing
 
 ```py
-print('hello world')
+print('Hello, world!')
 ```
 
 
