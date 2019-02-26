@@ -6,6 +6,8 @@ Create a new Python program called hello_world.py. You will use this file to wri
 
 ## How to create a program file:
 
+Open _visual studio code_ and create a new file named **hello_world.py**
+
 ## Printing
 
 ```py
@@ -22,3 +24,15 @@ print(a)
 ```
 `Output:`
 ```Hello, world!```
+
+## Execute `hello_world.py`
+
+```bash
+> python helloP=_world.py
+```
+
+The output should be:
+
+```
+Hello, world!`
+```
