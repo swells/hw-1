@@ -19,8 +19,8 @@ print('Hello, world!')
 Variables are containers for storing information. For example:
 Program Text:
 ```py
-a = 'Hello, world!'
-print(a)
+x = 'Hello, world!'
+print(x)
 ```
 `Output:`
 ```Hello, world!```
@@ -28,7 +28,7 @@ print(a)
 ## Execute `hello_world.py`
 
 ```bash
-> python helloP_world.py
+> python hello_world.py
 ```
 
 The output should be:
