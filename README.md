@@ -22,8 +22,6 @@ Program Text:
 x = 'Hello, world!'
 print(x)
 ```
-`Output:`
-```Hello, world!```
 
 ## Execute `hello_world.py`
 
